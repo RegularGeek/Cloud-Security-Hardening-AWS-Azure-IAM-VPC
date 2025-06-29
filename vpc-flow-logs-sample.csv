@@ -1,0 +1,2 @@
+source_ip,destination_ip,action
+10.0.0.1,10.0.0.2,ACCEPT
